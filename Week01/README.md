@@ -42,6 +42,33 @@ www.linkedin.com/in/razeel-cabela-286186376
 
 ---
 
+Installation Screenshots
+
+The screenshots below provide documentation of the installation and configuration of the required software and professional accounts.
+
+Git Installation
+
+git.png
+
+GitHub Desktop Installation
+
+
+Visual Studio Code Installation
+
+
+
+VirtualBox Installation
+
+
+
+GitHub Profile
+
+
+
+LinkedIn Profile
+
+
+---
 Challenges Encountered
 
 1. Choosing the Correct Software Version
